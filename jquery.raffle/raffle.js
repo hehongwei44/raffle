@@ -81,7 +81,7 @@
             if (random_num > 5) {
                 EndIndex = random_num - 5;
             } else {
-                EndIndex = random_num + 14 - 5;
+                EndIndex = random_num + arr_length - 5;
             }
             //console.log(this);
             Time = setInterval(function () {
