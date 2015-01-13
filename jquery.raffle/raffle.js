@@ -17,7 +17,6 @@
     var Raffle = function (config) {
         var defaults = {
             index: 1,           //当前亮区位置
-            prevIndex: 14,      //前一位置
             speed: 300,         //初始速度
             Time: null,         //定义对象
             EndIndex: 1,        //决定在哪一格变慢
