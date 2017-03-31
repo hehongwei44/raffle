@@ -1,21 +1,21 @@
-###综合概述###
+### 综合概述
 
 一款模拟老虎机形式的抽奖插件
 <img src="http://sfault-image.b0.upaiyun.com/958/921/958921584-546089cb791ed_articlex"/>
 
-###兼容性###
+### 兼容性
 
 IE6+、Chrome、Firefox、Safari、Opera
 
-###框架依赖###
+### 框架依赖
 
 依赖框架：jQuery
 
-###模块支持###
+### 模块支持
 
 支持AMD、node和浏览器
 
-###使用介绍###
+### 使用介绍
 1.HTML页面结构
 
 ps:一般抽奖类的机构，基本都是由列表或者table组成。不过推荐列表的形式最佳。本插件是根据列表形式来修改的。
@@ -54,21 +54,21 @@ ps:一般抽奖类的机构，基本都是由列表或者table组成。不过推
     //调用
     raffleinit()
 
-###下载连接###
+### 下载连接
 
 https://github.com/hehongwei44/raffle
 
-###授权信息###
+### 授权信息
 
 授权类型：MIT
 
 授权类型信息：https://github.com/hehongwei44/raffle/blob/master/LICENSE
 
-###更改日志###
+### 更改日志
 
 https://github.com/hehongwei44/raffle/blob/master/ChangeLog.md
 
-###其他补充###
+### 其他补充
 
 我们可能会遇到这样的需求、遇到各种什么节日的话，就会举办抽奖类的活动，用来吸引用户参加。
 那么产品那边希望开发能写出酷炫叼炸天特效来提高用户体验，这个插件，虽然不能说很经验，但是
